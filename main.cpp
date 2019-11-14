@@ -11,6 +11,8 @@ int main() {
 
     ifstream in;
     ofstream out;
+    string firstName;
+    string lastName;
     string name;
     string pts;
     string rebs;
@@ -34,11 +36,15 @@ int main() {
     cout << "Reading input file" << endl;
 
     while (!in.eof()) {
-        in >> name;
+        in >> firstName;
+        in >> lastName;
         in >> pts;
         in >> rebs;
         in >> ast;
         in >> blk;
+
+        name = firstName + " " + lastName;
+
         Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         data->push_head(*object);
     }
@@ -49,8 +55,6 @@ int main() {
 
     data->print(out);
 
-    while (data->pop_head()) {}
-    out.close();
 
     out.open("../queued.txt");
     if (!out.is_open()) {
@@ -63,11 +67,14 @@ int main() {
         return 1;
     }
     while (!in.eof()) {
-        in >> name;
+        in >> firstName;
+        in >> lastName;
         in >> pts;
         in >> rebs;
         in >> ast;
         in >> blk;
+
+        name = firstName + " " + lastName;
         Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         queueData->enqueue_tail(*object);
     }
@@ -88,11 +95,14 @@ int main() {
     }
 
     while (!in.eof()) {
-        in >> name;
+        in >> firstName;
+        in >> lastName;
         in >> pts;
         in >> rebs;
         in >> ast;
         in >> blk;
+
+        name = firstName + " " + lastName;
         Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         dataList.insertSorted(*object);
     }
