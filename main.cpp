@@ -12,20 +12,20 @@ int main() {
     ifstream in;
     ofstream out;
     string name;
-    int pts;
-    int rebs;
-    int ast;
-    int blk;
+    string pts;
+    string rebs;
+    string ast;
+    string blk;
     Stack* data = new Stack();
     Queue* queueData = new Queue();
     SortedLinkedList dataList;
 
-    in.open("NBA Projected Stats 2019.csv");
+    in.open("../NBA Projected Stats 2019.csv");
     if (!in.is_open()) {
         cout << "Could not open input file" << endl;
         return 1;
     }
-    out.open("stacked.txt");
+    out.open("../stacked.txt");
     if (!out.is_open()) {
         cout << "Could not open stacked file" << endl;
         return 1;
@@ -39,7 +39,7 @@ int main() {
         in >> rebs;
         in >> ast;
         in >> blk;
-        Data* object = new Data(name, pts, rebs, ast, blk);
+        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         data->push_head(*object);
     }
 
@@ -52,12 +52,12 @@ int main() {
     while (data->pop_head()) {}
     out.close();
 
-    out.open("queued.txt");
+    out.open("../queued.txt");
     if (!out.is_open()) {
         cout << "Could not open queued file" << endl;
         return 1;
     }
-    in.open("NBA Projected Stats 2019.csv");
+    in.open("../NBA Projected Stats 2019.csv");
     if (!in.is_open()) {
         cout << "Could not open input file" << endl;
         return 1;
@@ -68,7 +68,7 @@ int main() {
         in >> rebs;
         in >> ast;
         in >> blk;
-        Data* object = new Data(name, pts, rebs, ast, blk);
+        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         queueData->enqueue_tail(*object);
     }
 
@@ -76,12 +76,12 @@ int main() {
     while (queueData->dequeue_head()) {}
     out.close();
 
-    in.open("NBA Projected Stats 2019.csv");
+    in.open("../NBA Projected Stats 2019.csv");
     if (!out.is_open()) {
         cout << "Could not open input file" << endl;
         return 1;
     }
-    out.open("sorted.txt");
+    out.open("../sorted.txt");
     if (!out.is_open()) {
         cout << "Could not open sorted file" << endl;
         return 1;
@@ -93,7 +93,7 @@ int main() {
         in >> rebs;
         in >> ast;
         in >> blk;
-        Data* object = new Data(name, pts, rebs, ast, blk);
+        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
         dataList.insertSorted(*object);
     }
 

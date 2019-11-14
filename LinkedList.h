@@ -12,8 +12,12 @@ class Node {
 public:
     Data data; // object at node
     Node *next; // pointer to next node
-    Node(const Data &d, Node *n);
-    Node(const Data &d);
+    Node(const Data &d, Node *n){
+            data = d;
+            next= n;}
+    Node(const Data &d){
+            data = d;
+            next= nullptr;}
 };
 
 class LinkedList {

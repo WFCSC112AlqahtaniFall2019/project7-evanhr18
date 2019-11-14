@@ -34,3 +34,11 @@ Data :: Data(std::string name, int pts, int rebs, int ast, int blk) {
     assists = ast;
     blocks = blk;
 }
+
+Data :: Data() {
+    playerName = "";
+    points = 0;
+    rebounds = 0;
+    assists = 0;
+    blocks = 0;
+}

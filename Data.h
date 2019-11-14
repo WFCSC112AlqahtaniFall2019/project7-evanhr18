@@ -14,5 +14,6 @@ public:
     int blocks;
     friend ostream& operator << (ostream &out, const Data& print);
     bool operator> (Data object);
+    Data();
     Data(string name, int pts, int rebs, int ast, int blk);
 };
