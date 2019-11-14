@@ -45,13 +45,13 @@ int main() {
 
         name = firstName + " " + lastName;
 
-        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
-        data->push_head(*object);
+        Data object(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
+        data->push_head(object);
+        dataList.insertSorted(object);
+        queueData->enqueue_tail(object);
     }
 
     in.close();
-
-    cout << "Writing data in stack" << endl;
 
     data->print(out);
 
@@ -61,56 +61,22 @@ int main() {
         cout << "Could not open queued file" << endl;
         return 1;
     }
-    in.open("../NBA Projected Stats 2019.csv");
-    if (!in.is_open()) {
-        cout << "Could not open input file" << endl;
-        return 1;
-    }
-    while (!in.eof()) {
-        in >> firstName;
-        in >> lastName;
-        in >> pts;
-        in >> rebs;
-        in >> ast;
-        in >> blk;
 
-        name = firstName + " " + lastName;
-        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
-        queueData->enqueue_tail(*object);
-    }
 
     queueData->print(out);
-    while (queueData->dequeue_head()) {}
     out.close();
 
-    in.open("../NBA Projected Stats 2019.csv");
-    if (!out.is_open()) {
-        cout << "Could not open input file" << endl;
-        return 1;
-    }
-    out.open("../sorted.txt");
-    if (!out.is_open()) {
+    ofstream out2;
+    out2.open("../sorted.txt");
+    if (!out2.is_open()) {
         cout << "Could not open sorted file" << endl;
         return 1;
     }
 
-    while (!in.eof()) {
-        in >> firstName;
-        in >> lastName;
-        in >> pts;
-        in >> rebs;
-        in >> ast;
-        in >> blk;
 
-        name = firstName + " " + lastName;
-        Data* object = new Data(name, stoi(pts), stoi(rebs), stoi(ast), stoi(blk));
-        dataList.insertSorted(*object);
-    }
 
-    in.close();
-
-    dataList.print(out);
-    out.close();
+    dataList.print(out2);
+    out2.close();
 
 
 

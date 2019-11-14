@@ -1,0 +1,1722 @@
+Name: Joakim Noah
+Points: 141
+Rebounds: 133
+Assists: 41
+Blocks: 25
+
+Name: Ian Mahinmi
+Points: 142
+Rebounds: 123
+Assists: 22
+Blocks: 23
+
+Name: Timofey Mozgov
+Points: 178
+Rebounds: 110
+Assists: 16
+Blocks: 20
+
+Name: Tyler Zeller
+Points: 196
+Rebounds: 135
+Assists: 26
+Blocks: 16
+
+Name: DeMarcus Cousins
+Points: 224
+Rebounds: 125
+Assists: 39
+Blocks: 19
+
+Name: Kosta Koufos
+Points: 253
+Rebounds: 250
+Assists: 41
+Blocks: 21
+
+Name: Damian Jones
+Points: 258
+Rebounds: 150
+Assists: 53
+Blocks: 44
+
+Name: Jonah Bolden
+Points: 261
+Rebounds: 214
+Assists: 51
+Blocks: 48
+
+Name: Amir Johnson
+Points: 274
+Rebounds: 211
+Assists: 76
+Blocks: 34
+
+Name: Kyle O'Quinn
+Points: 286
+Rebounds: 227
+Assists: 81
+Blocks: 51
+
+Name: Bruno Fernando
+Points: 306
+Rebounds: 231
+Assists: 50
+Blocks: 33
+
+Name: Andre Iguodala
+Points: 309
+Rebounds: 186
+Assists: 162
+Blocks: 32
+
+Name: Tyson Chandler
+Points: 311
+Rebounds: 385
+Assists: 40
+Blocks: 33
+
+Name: John Henson
+Points: 319
+Rebounds: 278
+Assists: 41
+Blocks: 44
+
+Name: Kenneth Faried
+Points: 328
+Rebounds: 227
+Assists: 28
+Blocks: 23
+
+Name: Tyler Ulis
+Points: 334
+Rebounds: 185
+Assists: 162
+Blocks: 40
+
+Name: Jaxson Hayes
+Points: 354
+Rebounds: 226
+Assists: 34
+Blocks: 80
+
+Name: Andre Roberson
+Points: 361
+Rebounds: 316
+Assists: 75
+Blocks: 56
+
+Name: Richaun Holmes
+Points: 363
+Rebounds: 192
+Assists: 77
+Blocks: 36
+
+Name: Matisse Thybulle
+Points: 366
+Rebounds: 139
+Assists: 71
+Blocks: 48
+
+Name: T.J. McConnell
+Points: 389
+Rebounds: 156
+Assists: 254
+Blocks: 10
+
+Name: Thon Maker
+Points: 417
+Rebounds: 248
+Assists: 45
+Blocks: 61
+
+Name: James Ennis
+Points: 417
+Rebounds: 196
+Assists: 54
+Blocks: 18
+
+Name: Noah Vonleh
+Points: 419
+Rebounds: 396
+Assists: 92
+Blocks: 36
+
+Name: Ed Davis
+Points: 423
+Rebounds: 622
+Assists: 57
+Blocks: 47
+
+Name: Pat Connaughton
+Points: 426
+Rebounds: 209
+Assists: 99
+Blocks: 21
+
+Name: Khem Birch
+Points: 429
+Rebounds: 280
+Assists: 61
+Blocks: 71
+
+Name: Aron Baynes
+Points: 433
+Rebounds: 353
+Assists: 74
+Blocks: 52
+
+Name: Luke Kornet
+Points: 443
+Rebounds: 258
+Assists: 54
+Blocks: 60
+
+Name: Greg Monroe
+Points: 443
+Rebounds: 271
+Assists: 91
+Blocks: 25
+
+Name: Wilson Chandler
+Points: 445
+Rebounds: 232
+Assists: 85
+Blocks: 19
+
+Name: Jordan Bell
+Points: 450
+Rebounds: 368
+Assists: 165
+Blocks: 97
+
+Name: Daniel Theis
+Points: 454
+Rebounds: 289
+Assists: 82
+Blocks: 51
+
+Name: Jahlil Okafor
+Points: 457
+Rebounds: 227
+Assists: 37
+Blocks: 42
+
+Name: Nemanja Bjelica
+Points: 459
+Rebounds: 270
+Assists: 89
+Blocks: 26
+
+Name: Bismack Biyombo
+Points: 460
+Rebounds: 418
+Assists: 57
+Blocks: 88
+
+Name: Ante Zizic
+Points: 462
+Rebounds: 321
+Assists: 45
+Blocks: 42
+
+Name: Nerlens Noel
+Points: 468
+Rebounds: 403
+Assists: 57
+Blocks: 85
+
+Name: Boban Marjanovic
+Points: 476
+Rebounds: 311
+Assists: 64
+Blocks: 31
+
+Name: Goga Bitadze
+Points: 477
+Rebounds: 323
+Assists: 67
+Blocks: 74
+
+Name: J.J. Barea
+Points: 482
+Rebounds: 120
+Assists: 250
+Blocks: 0
+
+Name: Marquese Chriss
+Points: 488
+Rebounds: 318
+Assists: 69
+Blocks: 66
+
+Name: Tyus Jones
+Points: 489
+Rebounds: 144
+Assists: 310
+Blocks: 8
+
+Name: Mike Muscala
+Points: 492
+Rebounds: 253
+Assists: 71
+Blocks: 34
+
+Name: Cory Joseph
+Points: 495
+Rebounds: 213
+Assists: 224
+Blocks: 16
+
+Name: Mohamed Bamba
+Points: 500
+Rebounds: 384
+Assists: 62
+Blocks: 100
+
+Name: Denzel Valentine
+Points: 502
+Rebounds: 243
+Assists: 146
+Blocks: 6
+
+Name: DeAndre' Bembry
+Points: 505
+Rebounds: 261
+Assists: 147
+Blocks: 29
+
+Name: Jalen Brunson
+Points: 509
+Rebounds: 145
+Assists: 205
+Blocks: 5
+
+Name: Anthony Tolliver
+Points: 516
+Rebounds: 224
+Assists: 68
+Blocks: 20
+
+Name: Rajon Rondo
+Points: 517
+Rebounds: 284
+Assists: 454
+Blocks: 9
+
+Name: Troy Brown
+Points: 518
+Rebounds: 266
+Assists: 136
+Blocks: 19
+
+Name: Lonnie Walker
+Points: 518
+Rebounds: 159
+Assists: 132
+Blocks: 17
+
+Name: Josh Okogie
+Points: 519
+Rebounds: 202
+Assists: 129
+Blocks: 29
+
+Name: Willy Hernangomez
+Points: 525
+Rebounds: 377
+Assists: 69
+Blocks: 29
+
+Name: Evan Turner
+Points: 526
+Rebounds: 236
+Assists: 202
+Blocks: 23
+
+Name: Mason Plumlee
+Points: 528
+Rebounds: 322
+Assists: 170
+Blocks: 44
+
+Name: Royce O'Neale
+Points: 532
+Rebounds: 313
+Assists: 127
+Blocks: 26
+
+Name: Alfonzo McKinnie
+Points: 534
+Rebounds: 390
+Assists: 45
+Blocks: 21
+
+Name: Pau Gasol
+Points: 544
+Rebounds: 454
+Assists: 131
+Blocks: 35
+
+Name: Michael Porter
+Points: 548
+Rebounds: 196
+Assists: 96
+Blocks: 16
+
+Name: Ersan Ilyasova
+Points: 557
+Rebounds: 322
+Assists: 65
+Blocks: 22
+
+Name: Emmanuel Mudiay
+Points: 557
+Rebounds: 153
+Assists: 190
+Blocks: 15
+
+Name: Jusuf Nurkic
+Points: 558
+Rebounds: 367
+Assists: 100
+Blocks: 53
+
+Name: P.J. Tucker
+Points: 561
+Rebounds: 467
+Assists: 94
+Blocks: 32
+
+Name: Shabazz Napier
+Points: 573
+Rebounds: 131
+Assists: 153
+Blocks: 16
+
+Name: Kyle Korver
+Points: 573
+Rebounds: 153
+Assists: 85
+Blocks: 17
+
+Name: Justin Jackson
+Points: 574
+Rebounds: 214
+Assists: 94
+Blocks: 14
+
+Name: Doug McDermott
+Points: 578
+Rebounds: 143
+Assists: 70
+Blocks: 11
+
+Name: Justin Holiday
+Points: 587
+Rebounds: 201
+Assists: 102
+Blocks: 21
+
+Name: Kyle Anderson
+Points: 588
+Rebounds: 397
+Assists: 206
+Blocks: 59
+
+Name: Marvin Williams
+Points: 588
+Rebounds: 331
+Assists: 72
+Blocks: 30
+
+Name: Gorgui Dieng
+Points: 591
+Rebounds: 402
+Assists: 90
+Blocks: 51
+
+Name: Jakob Poeltl
+Points: 592
+Rebounds: 479
+Assists: 94
+Blocks: 91
+
+Name: Mikal Bridges
+Points: 594
+Rebounds: 279
+Assists: 140
+Blocks: 38
+
+Name: Ivica Zubac
+Points: 594
+Rebounds: 445
+Assists: 86
+Blocks: 69
+
+Name: Michael Kidd-Gilchrist
+Points: 599
+Rebounds: 341
+Assists: 80
+Blocks: 43
+
+Name: Maurice Harkless
+Points: 600
+Rebounds: 267
+Assists: 85
+Blocks: 55
+
+Name: Stanley Johnson
+Points: 601
+Rebounds: 272
+Assists: 113
+Blocks: 18
+
+Name: Dante Exum
+Points: 603
+Rebounds: 138
+Assists: 227
+Blocks: 9
+
+Name: Al-Farouq Aminu
+Points: 604
+Rebounds: 458
+Assists: 84
+Blocks: 31
+
+Name: Trevor Ariza
+Points: 606
+Rebounds: 253
+Assists: 136
+Blocks: 14
+
+Name: Trey Burke
+Points: 607
+Rebounds: 96
+Assists: 213
+Blocks: 3
+
+Name: Robin Lopez
+Points: 609
+Rebounds: 290
+Assists: 82
+Blocks: 80
+
+Name: Aaron Holiday
+Points: 614
+Rebounds: 137
+Assists: 221
+Blocks: 21
+
+Name: Trey Lyles
+Points: 617
+Rebounds: 298
+Assists: 79
+Blocks: 27
+
+Name: Brandon Clarke
+Points: 620
+Rebounds: 404
+Assists: 89
+Blocks: 79
+
+Name: Kevon Looney
+Points: 627
+Rebounds: 483
+Assists: 117
+Blocks: 82
+
+Name: Josh Hart
+Points: 629
+Rebounds: 273
+Assists: 103
+Blocks: 32
+
+Name: Courtney Lee
+Points: 631
+Rebounds: 167
+Assists: 119
+Blocks: 11
+
+Name: Patty Mills
+Points: 638
+Rebounds: 134
+Assists: 183
+Blocks: 5
+
+Name: Patrick Beverley
+Points: 639
+Rebounds: 335
+Assists: 335
+Blocks: 39
+
+Name: Gerald Green
+Points: 639
+Rebounds: 170
+Assists: 37
+Blocks: 24
+
+Name: Tony Snell
+Points: 647
+Rebounds: 216
+Assists: 99
+Blocks: 19
+
+Name: Davis Bertans
+Points: 649
+Rebounds: 272
+Assists: 111
+Blocks: 36
+
+Name: Monte Morris
+Points: 652
+Rebounds: 148
+Assists: 235
+Blocks: 0
+
+Name: Larry Nance
+Points: 659
+Rebounds: 563
+Assists: 166
+Blocks: 44
+
+Name: Landry Shamet
+Points: 661
+Rebounds: 132
+Assists: 148
+Blocks: 7
+
+Name: Tristan Thompson
+Points: 662
+Rebounds: 656
+Assists: 98
+Blocks: 40
+
+Name: Taj Gibson
+Points: 664
+Rebounds: 410
+Assists: 70
+Blocks: 43
+
+Name: Cody Zeller
+Points: 666
+Rebounds: 451
+Assists: 122
+Blocks: 57
+
+Name: Anfernee Simons
+Points: 669
+Rebounds: 157
+Assists: 157
+Blocks: 10
+
+Name: Frank Kaminsky
+Points: 675
+Rebounds: 237
+Assists: 103
+Blocks: 27
+
+Name: George Hill
+Points: 680
+Rebounds: 189
+Assists: 217
+Blocks: 19
+
+Name: Austin Rivers
+Points: 681
+Rebounds: 135
+Assists: 160
+Blocks: 17
+
+Name: C.J. Miles
+Points: 685
+Rebounds: 175
+Assists: 62
+Blocks: 21
+
+Name: Delon Wright
+Points: 686
+Rebounds: 256
+Assists: 254
+Blocks: 30
+
+Name: Jeff Green
+Points: 686
+Rebounds: 222
+Assists: 93
+Blocks: 22
+
+Name: Zach Collins
+Points: 690
+Rebounds: 427
+Assists: 103
+Blocks: 85
+
+Name: Danny Green
+Points: 693
+Rebounds: 280
+Assists: 124
+Blocks: 59
+
+Name: Dwight Powell
+Points: 700
+Rebounds: 367
+Assists: 148
+Blocks: 40
+
+Name: Tomas Satoransky
+Points: 704
+Rebounds: 281
+Assists: 288
+Blocks: 17
+
+Name: Allen Crabbe
+Points: 705
+Rebounds: 235
+Assists: 86
+Blocks: 23
+
+Name: JaMychal Green
+Points: 711
+Rebounds: 526
+Assists: 79
+Blocks: 34
+
+Name: JaVale McGee
+Points: 720
+Rebounds: 457
+Assists: 60
+Blocks: 110
+
+Name: Kris Dunn
+Points: 720
+Rebounds: 246
+Assists: 344
+Blocks: 32
+
+Name: Seth Curry
+Points: 720
+Rebounds: 161
+Assists: 113
+Blocks: 14
+
+Name: Dewayne Dedmon
+Points: 727
+Rebounds: 550
+Assists: 96
+Blocks: 71
+
+Name: Norman Powell
+Points: 728
+Rebounds: 212
+Assists: 129
+Blocks: 19
+
+Name: Marcus Smart
+Points: 745
+Rebounds: 319
+Assists: 270
+Blocks: 39
+
+Name: Tyler Johnson
+Points: 746
+Rebounds: 211
+Assists: 175
+Blocks: 33
+
+Name: Markelle Fultz
+Points: 746
+Rebounds: 237
+Assists: 252
+Blocks: 24
+
+Name: Jae Crowder
+Points: 748
+Rebounds: 292
+Assists: 105
+Blocks: 24
+
+Name: Cedi Osman
+Points: 748
+Rebounds: 288
+Assists: 139
+Blocks: 16
+
+Name: James Johnson
+Points: 750
+Rebounds: 317
+Assists: 245
+Blocks: 61
+
+Name: Avery Bradley
+Points: 755
+Rebounds: 207
+Assists: 143
+Blocks: 16
+
+Name: Markieff Morris
+Points: 760
+Rebounds: 348
+Assists: 112
+Blocks: 31
+
+Name: OG Anunoby
+Points: 761
+Rebounds: 302
+Assists: 79
+Blocks: 29
+
+Name: Elfrid Payton
+Points: 766
+Rebounds: 297
+Assists: 416
+Blocks: 27
+
+Name: Klay Thompson
+Points: 769
+Rebounds: 135
+Assists: 85
+Blocks: 19
+
+Name: Bryn Forbes
+Points: 775
+Rebounds: 186
+Assists: 133
+Blocks: 0
+
+Name: Jonathan Isaac
+Points: 775
+Rebounds: 424
+Assists: 90
+Blocks: 107
+
+Name: Derrick Rose
+Points: 778
+Rebounds: 141
+Assists: 203
+Blocks: 10
+
+Name: Thaddeus Young
+Points: 797
+Rebounds: 372
+Assists: 127
+Blocks: 25
+
+Name: DeAndre Jordan
+Points: 798
+Rebounds: 936
+Assists: 139
+Blocks: 78
+
+Name: DeMarre Carroll
+Points: 799
+Rebounds: 388
+Assists: 114
+Blocks: 22
+
+Name: Mario Hezonja
+Points: 799
+Rebounds: 348
+Assists: 131
+Blocks: 16
+
+Name: Wesley Matthews
+Points: 806
+Rebounds: 170
+Assists: 141
+Blocks: 14
+
+Name: Ish Smith
+Points: 812
+Rebounds: 228
+Assists: 344
+Blocks: 17
+
+Name: Mitchell Robinson
+Points: 815
+Rebounds: 671
+Assists: 59
+Blocks: 220
+
+Name: Draymond Green
+Points: 817
+Rebounds: 602
+Assists: 580
+Blocks: 97
+
+Name: Luke Kennard
+Points: 817
+Rebounds: 250
+Assists: 164
+Blocks: 17
+
+Name: Kentavious Caldwell-Pope
+Points: 817
+Rebounds: 236
+Assists: 114
+Blocks: 15
+
+Name: Willie Cauley-Stein
+Points: 819
+Rebounds: 503
+Assists: 166
+Blocks: 61
+
+Name: Rondae Hollis-Jefferson
+Points: 825
+Rebounds: 437
+Assists: 148
+Blocks: 48
+
+Name: Lonzo Ball
+Points: 826
+Rebounds: 437
+Assists: 612
+Blocks: 44
+
+Name: Dwight Howard
+Points: 836
+Rebounds: 647
+Assists: 71
+Blocks: 83
+
+Name: Jarrett Allen
+Points: 837
+Rebounds: 612
+Assists: 88
+Blocks: 114
+
+Name: Dillon Brooks
+Points: 844
+Rebounds: 220
+Assists: 110
+Blocks: 16
+
+Name: Jerami Grant
+Points: 849
+Rebounds: 348
+Assists: 98
+Blocks: 99
+
+Name: Dion Waiters
+Points: 854
+Rebounds: 184
+Assists: 217
+Blocks: 20
+
+Name: Malik Monk
+Points: 857
+Rebounds: 161
+Assists: 177
+Blocks: 22
+
+Name: Robert Covington
+Points: 863
+Rebounds: 342
+Assists: 162
+Blocks: 59
+
+Name: Jabari Parker
+Points: 866
+Rebounds: 363
+Assists: 118
+Blocks: 26
+
+Name: Bam Adebayo
+Points: 869
+Rebounds: 662
+Assists: 190
+Blocks: 87
+
+Name: Joe Harris
+Points: 874
+Rebounds: 259
+Assists: 142
+Blocks: 15
+
+Name: Kelly Olynyk
+Points: 878
+Rebounds: 427
+Assists: 179
+Blocks: 45
+
+Name: Marcus Morris
+Points: 880
+Rebounds: 370
+Assists: 97
+Blocks: 20
+
+Name: Joe Ingles
+Points: 885
+Rebounds: 335
+Assists: 357
+Blocks: 31
+
+Name: Derrick White
+Points: 885
+Rebounds: 293
+Assists: 277
+Blocks: 54
+
+Name: Kevin Huerter
+Points: 894
+Rebounds: 264
+Assists: 224
+Blocks: 20
+
+Name: Bobby Portis
+Points: 908
+Rebounds: 487
+Assists: 103
+Blocks: 28
+
+Name: Spencer Dinwiddie
+Points: 909
+Rebounds: 183
+Assists: 340
+Blocks: 20
+
+Name: Isaiah Thomas
+Points: 909
+Rebounds: 136
+Assists: 301
+Blocks: 9
+
+Name: Justise Winslow
+Points: 911
+Rebounds: 428
+Assists: 293
+Blocks: 31
+
+Name: Josh Jackson
+Points: 912
+Rebounds: 362
+Assists: 158
+Blocks: 50
+
+Name: Nicolas Batum
+Points: 912
+Rebounds: 374
+Assists: 371
+Blocks: 35
+
+Name: Kent Bazemore
+Points: 918
+Rebounds: 307
+Assists: 200
+Blocks: 49
+
+Name: Rudy Gay
+Points: 918
+Rebounds: 414
+Assists: 155
+Blocks: 40
+
+Name: Jeff Teague
+Points: 931
+Rebounds: 207
+Assists: 525
+Blocks: 26
+
+Name: D.J. Augustin
+Points: 936
+Rebounds: 197
+Assists: 391
+Blocks: 0
+
+Name: Wendell Carter
+Points: 937
+Rebounds: 640
+Assists: 132
+Blocks: 103
+
+Name: Terrence Ross
+Points: 937
+Rebounds: 228
+Assists: 112
+Blocks: 27
+
+Name: De'Andre Hunter
+Points: 939
+Rebounds: 398
+Assists: 167
+Blocks: 33
+
+Name: Kelly Oubre
+Points: 941
+Rebounds: 352
+Assists: 101
+Blocks: 52
+
+Name: Alex Len
+Points: 945
+Rebounds: 541
+Assists: 99
+Blocks: 85
+
+Name: Ricky Rubio
+Points: 952
+Rebounds: 302
+Assists: 564
+Blocks: 10
+
+Name: Fred VanVleet
+Points: 952
+Rebounds: 207
+Assists: 333
+Blocks: 22
+
+Name: Dejounte Murray
+Points: 960
+Rebounds: 516
+Assists: 307
+Blocks: 35
+
+Name: Tyler Herro
+Points: 962
+Rebounds: 229
+Assists: 156
+Blocks: 26
+
+Name: Al Horford
+Points: 982
+Rebounds: 534
+Assists: 311
+Blocks: 95
+
+Name: Will Barton
+Points: 985
+Rebounds: 357
+Assists: 256
+Blocks: 39
+
+Name: Rui Hachimura
+Points: 986
+Rebounds: 492
+Assists: 139
+Blocks: 71
+
+Name: Dario Saric
+Points: 994
+Rebounds: 474
+Assists: 162
+Blocks: 16
+
+Name: Shai Gilgeous-Alexander
+Points: 994
+Rebounds: 264
+Assists: 352
+Blocks: 43
+
+Name: Hassan Whiteside
+Points: 994
+Rebounds: 846
+Assists: 65
+Blocks: 149
+
+Name: Brook Lopez
+Points: 997
+Rebounds: 372
+Assists: 110
+Blocks: 152
+
+Name: Paul Millsap
+Points: 1000
+Rebounds: 516
+Assists: 174
+Blocks: 66
+
+Name: Darius Garland
+Points: 1029
+Rebounds: 214
+Assists: 233
+Blocks: 8
+
+Name: Miles Bridges
+Points: 1042
+Rebounds: 447
+Assists: 140
+Blocks: 71
+
+Name: Enes Kanter
+Points: 1044
+Rebounds: 703
+Assists: 133
+Blocks: 34
+
+Name: Serge Ibaka
+Points: 1048
+Rebounds: 564
+Assists: 78
+Blocks: 92
+
+Name: Taurean Prince
+Points: 1061
+Rebounds: 337
+Assists: 178
+Blocks: 32
+
+Name: Kevin Knox
+Points: 1070
+Rebounds: 363
+Assists: 107
+Blocks: 36
+
+Name: Thomas Bryant
+Points: 1073
+Rebounds: 706
+Assists: 145
+Blocks: 102
+
+Name: Bogdan Bogdanovic
+Points: 1076
+Rebounds: 264
+Assists: 295
+Blocks: 19
+
+Name: Rodney Hood
+Points: 1077
+Rebounds: 200
+Assists: 146
+Blocks: 15
+
+Name: Steven Adams
+Points: 1079
+Rebounds: 786
+Assists: 117
+Blocks: 78
+
+Name: Caris LeVert
+Points: 1085
+Rebounds: 296
+Assists: 314
+Blocks: 41
+
+Name: Montrezl Harrell
+Points: 1092
+Rebounds: 529
+Assists: 170
+Blocks: 99
+
+Name: Derrick Favors
+Points: 1094
+Rebounds: 642
+Assists: 114
+Blocks: 114
+
+Name: Jeremy Lamb
+Points: 1097
+Rebounds: 363
+Assists: 203
+Blocks: 30
+
+Name: Chris Paul
+Points: 1100
+Rebounds: 310
+Assists: 534
+Blocks: 17
+
+Name: Marc Gasol
+Points: 1104
+Rebounds: 564
+Assists: 309
+Blocks: 87
+
+Name: Domantas Sabonis
+Points: 1106
+Rebounds: 737
+Assists: 250
+Blocks: 38
+
+Name: Myles Turner
+Points: 1110
+Rebounds: 587
+Assists: 131
+Blocks: 185
+
+Name: Josh Richardson
+Points: 1111
+Rebounds: 280
+Assists: 237
+Blocks: 66
+
+Name: Tim Hardaway
+Points: 1112
+Rebounds: 228
+Assists: 164
+Blocks: 9
+
+Name: Terry Rozier
+Points: 1131
+Rebounds: 407
+Assists: 316
+Blocks: 25
+
+Name: Jordan Clarkson
+Points: 1139
+Rebounds: 233
+Assists: 208
+Blocks: 11
+
+Name: Clint Capela
+Points: 1146
+Rebounds: 842
+Assists: 97
+Blocks: 134
+
+Name: Jonas Valanciunas
+Points: 1150
+Rebounds: 698
+Assists: 112
+Blocks: 96
+
+Name: Malcolm Brogdon
+Points: 1154
+Rebounds: 301
+Assists: 348
+Blocks: 14
+
+Name: Jaren Jackson
+Points: 1156
+Rebounds: 499
+Assists: 103
+Blocks: 120
+
+Name: Reggie Jackson
+Points: 1162
+Rebounds: 199
+Assists: 364
+Blocks: 7
+
+Name: Gary Harris
+Points: 1163
+Rebounds: 209
+Assists: 190
+Blocks: 19
+
+Name: Dennis Schroder
+Points: 1169
+Rebounds: 245
+Assists: 330
+Blocks: 11
+
+Name: Eric Bledsoe
+Points: 1172
+Rebounds: 352
+Assists: 426
+Blocks: 33
+
+Name: Bojan Bogdanovic
+Points: 1173
+Rebounds: 360
+Assists: 150
+Blocks: 11
+
+Name: Eric Gordon
+Points: 1178
+Rebounds: 170
+Assists: 146
+Blocks: 29
+
+Name: Kristaps Porzingis
+Points: 1180
+Rebounds: 410
+Assists: 72
+Blocks: 108
+
+Name: Otto Porter
+Points: 1188
+Rebounds: 456
+Assists: 177
+Blocks: 46
+
+Name: Goran Dragic
+Points: 1191
+Rebounds: 274
+Assists: 390
+Blocks: 11
+
+Name: Rudy Gobert
+Points: 1197
+Rebounds: 992
+Assists: 142
+Blocks: 197
+
+Name: Evan Fournier
+Points: 1205
+Rebounds: 243
+Assists: 258
+Blocks: 11
+
+Name: RJ Barrett
+Points: 1205
+Rebounds: 428
+Assists: 223
+Blocks: 26
+
+Name: Brandon Ingram
+Points: 1210
+Rebounds: 357
+Assists: 234
+Blocks: 49
+
+Name: Gordon Hayward
+Points: 1212
+Rebounds: 385
+Assists: 303
+Blocks: 27
+
+Name: JJ Redick
+Points: 1219
+Rebounds: 171
+Assists: 180
+Blocks: 12
+
+Name: Kyle Lowry
+Points: 1223
+Rebounds: 364
+Assists: 528
+Blocks: 29
+
+Name: Jaylen Brown
+Points: 1225
+Rebounds: 383
+Assists: 138
+Blocks: 46
+
+Name: Kevin Love
+Points: 1246
+Rebounds: 682
+Assists: 151
+Blocks: 24
+
+Name: Ja Morant
+Points: 1257
+Rebounds: 314
+Assists: 582
+Blocks: 27
+
+Name: TJ Warren
+Points: 1272
+Rebounds: 330
+Assists: 107
+Blocks: 45
+
+Name: Aaron Gordon
+Points: 1279
+Rebounds: 564
+Assists: 241
+Blocks: 56
+
+Name: Pascal Siakam
+Points: 1286
+Rebounds: 550
+Assists: 244
+Blocks: 54
+
+Name: Dennis Smith
+Points: 1287
+Rebounds: 283
+Assists: 375
+Blocks: 25
+
+Name: Harrison Barnes
+Points: 1291
+Rebounds: 383
+Assists: 125
+Blocks: 15
+
+Name: Victor Oladipo
+Points: 1319
+Rebounds: 341
+Assists: 323
+Blocks: 31
+
+Name: Andrew Wiggins
+Points: 1335
+Rebounds: 338
+Assists: 172
+Blocks: 46
+
+Name: Marvin Bagley
+Points: 1340
+Rebounds: 662
+Assists: 117
+Blocks: 83
+
+Name: Lauri Markkanen
+Points: 1352
+Rebounds: 620
+Assists: 101
+Blocks: 46
+
+Name: Kyle Kuzma
+Points: 1361
+Rebounds: 434
+Assists: 171
+Blocks: 32
+
+Name: Danilo Gallinari
+Points: 1368
+Rebounds: 424
+Assists: 160
+Blocks: 22
+
+Name: Jayson Tatum
+Points: 1376
+Rebounds: 488
+Assists: 174
+Blocks: 61
+
+Name: Deandre Ayton
+Points: 1377
+Rebounds: 778
+Assists: 140
+Blocks: 105
+
+Name: Ben Simmons
+Points: 1378
+Rebounds: 679
+Assists: 674
+Blocks: 70
+
+Name: Collin Sexton
+Points: 1382
+Rebounds: 249
+Assists: 326
+Blocks: 14
+
+Name: De'Aaron Fox
+Points: 1387
+Rebounds: 295
+Assists: 568
+Blocks: 41
+
+Name: Andre Drummond
+Points: 1389
+Rebounds: 1237
+Assists: 156
+Blocks: 140
+
+Name: Zion Williamson
+Points: 1407
+Rebounds: 649
+Assists: 219
+Blocks: 84
+
+Name: Jamal Murray
+Points: 1417
+Rebounds: 331
+Assists: 352
+Blocks: 29
+
+Name: Lou Williams
+Points: 1426
+Rebounds: 212
+Assists: 340
+Blocks: 11
+
+Name: Nikola Vucevic
+Points: 1427
+Rebounds: 846
+Assists: 285
+Blocks: 89
+
+Name: Mike Conley
+Points: 1429
+Rebounds: 251
+Assists: 448
+Blocks: 23
+
+Name: John Collins
+Points: 1450
+Rebounds: 744
+Assists: 142
+Blocks: 88
+
+Name: Khris Middleton
+Points: 1504
+Rebounds: 460
+Assists: 333
+Blocks: 13
+
+Name: Tobias Harris
+Points: 1515
+Rebounds: 583
+Assists: 222
+Blocks: 40
+
+Name: D'Angelo Russell
+Points: 1517
+Rebounds: 313
+Assists: 435
+Blocks: 21
+
+Name: Julius Randle
+Points: 1519
+Rebounds: 652
+Assists: 258
+Blocks: 47
+
+Name: Trae Young
+Points: 1555
+Rebounds: 289
+Assists: 644
+Blocks: 17
+
+Name: Zach LaVine
+Points: 1593
+Rebounds: 321
+Assists: 303
+Blocks: 23
+
+Name: Buddy Hield
+Points: 1594
+Rebounds: 388
+Assists: 201
+Blocks: 29
+
+Name: Nikola Jokic
+Points: 1599
+Rebounds: 889
+Assists: 573
+Blocks: 61
+
+Name: Blake Griffin
+Points: 1603
+Rebounds: 515
+Assists: 367
+Blocks: 24
+
+Name: Luka Doncic
+Points: 1638
+Rebounds: 552
+Assists: 475
+Blocks: 25
+
+Name: Jrue Holiday
+Points: 1642
+Rebounds: 371
+Assists: 471
+Blocks: 59
+
+Name: Paul George
+Points: 1654
+Rebounds: 507
+Assists: 276
+Blocks: 30
+
+Name: Jimmy Butler
+Points: 1660
+Rebounds: 433
+Assists: 383
+Blocks: 47
+
+Name: Russell Westbrook
+Points: 1670
+Rebounds: 676
+Assists: 656
+Blocks: 29
+
+Name: LaMarcus Aldridge
+Points: 1684
+Rebounds: 691
+Assists: 170
+Blocks: 96
+
+Name: CJ McCollum
+Points: 1722
+Rebounds: 330
+Assists: 264
+Blocks: 33
+
+Name: DeMar DeRozan
+Points: 1760
+Rebounds: 417
+Assists: 414
+Blocks: 29
+
+Name: Joel Embiid
+Points: 1777
+Rebounds: 867
+Assists: 240
+Blocks: 129
+
+Name: Kyrie Irving
+Points: 1780
+Rebounds: 283
+Assists: 468
+Blocks: 25
+
+Name: Kawhi Leonard
+Points: 1833
+Rebounds: 496
+Assists: 251
+Blocks: 50
+
+Name: Kemba Walker
+Points: 1864
+Rebounds: 306
+Assists: 468
+Blocks: 29
+
+Name: Donovan Mitchell
+Points: 1918
+Rebounds: 334
+Assists: 323
+Blocks: 33
+
+Name: Devin Booker
+Points: 1936
+Rebounds: 304
+Assists: 411
+Blocks: 18
+
+Name: Karl-Anthony Towns
+Points: 2003
+Rebounds: 984
+Assists: 256
+Blocks: 126
+
+Name: LeBron James
+Points: 2006
+Rebounds: 635
+Assists: 627
+Blocks: 51
+
+Name: Bradley Beal
+Points: 2064
+Rebounds: 403
+Assists: 423
+Blocks: 46
+
+Name: Anthony Davis
+Points: 2117
+Rebounds: 852
+Assists: 230
+Blocks: 191
+
+Name: Damian Lillard
+Points: 2147
+Rebounds: 339
+Assists: 554
+Blocks: 29
+
+Name: Giannis Antetokounmpo
+Points: 2176
+Rebounds: 923
+Assists: 457
+Blocks: 118
+
+Name: Stephen Curry
+Points: 2222
+Rebounds: 424
+Assists: 454
+Blocks: 25
+
+Name: James Harden
+Points: 2458
+Rebounds: 465
+Assists: 570
+Blocks: 52
+

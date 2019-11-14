@@ -16,8 +16,9 @@ public:
             data = d;
             next= n;}
     Node(const Data &d){
-            data = d;
-            next= nullptr;}
+        data = d;
+        next= nullptr;
+    }
 };
 
 class LinkedList {

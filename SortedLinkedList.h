@@ -10,6 +10,6 @@
 
 class SortedLinkedList : public LinkedList {
 public:
-    void  insertionSort();
+
     void insertSorted(Data object);
 };

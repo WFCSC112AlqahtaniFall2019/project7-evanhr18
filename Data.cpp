@@ -21,9 +21,9 @@ ostream& operator << (ostream &out, const Data& print)
 
 }
 
-bool Data :: operator> (Data object) {
+bool Data :: operator< (Data & object) {
 
-    return this->points > object.points;
+    return this->points < object.points;
 
 }
 
