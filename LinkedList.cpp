@@ -7,6 +7,15 @@
 #include "LinkedList.h"
 using namespace std;
 
+Node :: Node(const Data &d) {
+    data = d;
+}
+
+Node :: Node(const Data &d, Node *n) {
+    data = d;
+    next = n;
+};
+
 LinkedList::LinkedList() {
     head = nullptr; // empty list
 }
